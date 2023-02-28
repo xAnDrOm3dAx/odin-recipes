@@ -5,4 +5,6 @@ Introduction: a foundations project using HTML. This project will involve creati
 
 Languages and technologies used: HTML
 
-Skills Demonstrated: The use of HTML to create a website showcasing the skills learnt from previous lessons. 
+Skills Demonstrated: 
+The use of HTML to create a website showcasing the skills learnt from previous lessons. 
+Updated to showcase CSS fundamental knowledge.
