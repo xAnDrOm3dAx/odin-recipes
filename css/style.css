@@ -1,16 +1,38 @@
-h1 {
+* {
+    box-sizing: border-box;
+}
+
+html {
+    margin: auto;
+    width:100%
+    text-align: center;
+}
+
+h1, h2 {
     font-size: 32px;
+    text-align: center;
 }
 
 body {
-    background-color: honeydew;
+    background-color: #F1F0DE;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
 }
 
 div {
-    background: teal;
-    width: 550px;
-    padding: 40px;
-    margin: 10px;
+    background: #F1F0DE;
+    margin: auto;
+    width: 60%;
+    padding-top: 30px;
 }
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 60%;
+  }
