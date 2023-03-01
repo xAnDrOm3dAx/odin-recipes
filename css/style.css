@@ -2,6 +2,14 @@
     box-sizing: border-box;
 }
 
+.recipes {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0px;
+    height: 200px;
+}
+
 html {
     margin: auto;
     width:100%
@@ -34,5 +42,5 @@ ul {
 img {
     display: block;
     margin: auto;
-    width: 60%;
+    width: 30%;
   }
