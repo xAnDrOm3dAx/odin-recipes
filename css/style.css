@@ -13,11 +13,11 @@
 
 html {
     margin: auto;
-    width:100%
-    text-align: center;
+    width: 100% text-align: center;
 }
 
-h1, h2 {
+h1,
+h2 {
     font-size: 32px;
     text-align: center;
 }
@@ -45,8 +45,8 @@ img {
     margin: auto;
     margin-right: 555px;
     width: 30%;
-  }
+}
 
- li {
+li {
     padding: 15px;
-  }
+}
