@@ -4,8 +4,7 @@
 
 
 html {
-    margin: auto;
-    width: 100% text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1,
@@ -16,7 +15,6 @@ h2 {
 
 body {
     background-color: #F1F0DE;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 18px;
 }
 
