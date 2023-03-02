@@ -34,7 +34,7 @@ div {
 .img-chef {
     display: block;
     margin: auto;
-    margin-right: 550px;
+    padding-right: 40px;
     width: 30%;
 }
 
