@@ -2,14 +2,6 @@
     box-sizing: border-box;
 }
 
-.recipes {
-    display: block;
-    justify-content: center;
-    align-items: center;
-    padding-left: 0px;
-    padding-top: 5px;
-    height: 200px;
-}
 
 html {
     margin: auto;
@@ -51,11 +43,13 @@ div {
 .img-recipes {
     display: block;
     margin: auto;
-    width: 30%;
+    width: auto;
+    height: 500px;
+    border: 1px solid black;
 }
 
 li {
-    padding: 15px;
+    margin: 15px;
 }
 
 .center {
