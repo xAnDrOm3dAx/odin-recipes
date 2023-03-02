@@ -35,18 +35,31 @@ div {
     padding-top: 30px;
 }
 
-ul {
+.align-centre {
+    display: block;
     text-align: center;
     list-style-type: none;
 }
 
-img {
+.img-chef {
     display: block;
     margin: auto;
-    margin-right: 555px;
+    margin-right: 550px;
+    width: 30%;
+}
+
+.img-recipes {
+    display: block;
+    margin: auto;
     width: 30%;
 }
 
 li {
     padding: 15px;
+}
+
+.center {
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
 }
