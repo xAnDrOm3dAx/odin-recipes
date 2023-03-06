@@ -9,6 +9,21 @@ html {
     font-size: 18px;
 }
 
+/*
+div {
+    margin: 20px 0px 20px 0px;
+    border: 2px solid teal;
+}
+
+.introduction {
+    background-color: #548CA8;
+}
+
+.title-content {
+    background-color: #548CA8;
+}
+*/
+
 h1,
 h2 {
     font-size: 32px;
@@ -16,7 +31,7 @@ h2 {
 }
 
 .align-centre {
-    display: block;
+    display: inline;
     text-align: center;
     list-style-type: none;
     margin-left: auto;
