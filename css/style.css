@@ -10,11 +10,13 @@ html {
 }
 
 .container div {
-    margin: 10px 0px 10px 0px;
+    margin: 20px 0px 20px 0px;
     border: 2px solid rgb(1, 4, 4);
     background-color: #548CA8;
-    padding: 10px 20px;
+    padding: 0px 10px;
+    
 }
+
 
 /* I can use these to style to children of .flex container
 
@@ -32,6 +34,7 @@ html {
     padding: 0px 10px;
 }
 */
+
 
 h1,
 h2 {
@@ -74,7 +77,7 @@ li {
 }
 
 .center {
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
     text-align: center;
 }
