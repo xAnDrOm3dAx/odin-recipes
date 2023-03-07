@@ -9,23 +9,23 @@ html {
     font-size: 18px;
 }
 
-.flex-container div {
+.container div {
     margin: 10px 0px 10px 0px;
     border: 2px solid rgb(1, 4, 4);
     background-color: #548CA8;
-    padding: 0px 10px;
+    padding: 10px 20px;
 }
 
 /* I can use these to style to children of .flex container
 
-.flex-container .intro {
+.container .intro {
     margin: 20px 0px 20px 0px;
     border: 2px solid rgb(1, 4, 4);
     background-color: #000;
     padding: 0px 10px;
 }
 
-.flex-container .ingredients {
+.container .ingredients {
     margin: 20px 0px 20px 0px;
     border: 2px solid rgb(1, 4, 4);
     background-color: #fff;
